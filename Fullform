@@ -1,0 +1,5 @@
+cd - Change director - help you to gget back to the parent directory
+Ls - List - help you to list the content of the directory
+git clone - <url of the git reposetory> help you to localize your git remote repo
+Git status - help you to get the status of the repo
+
